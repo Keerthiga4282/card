@@ -163,24 +163,15 @@ footer {
         display: grid;
     }
 
-    card {
-        padding: 2rem 0rem;
-    }
 
-    .cardContainer {
-        max-width: 1200px;
-        margin: auto;
-    }
-
+    
     .cardBody {
         display: grid;
         grid-template-columns: 1fr;
-        gap: 3rem;
     }
 
     .cardBlock {
-        border-top: 10px solid #023e8a;
-       
+        border-top: 10px solid #023e8a; 
         display: flex;
         justify-content: center;
         align-items: center;
